@@ -13,16 +13,12 @@
   "Minhas 3 séries favoritas são: SÉRIE_01, SÉRIE_02 e SÉRIE_03."
 */
 
-
-
 /*
   02 - Comente o console.log() acima e:
 
   - Exiba no console um boolean indicando se o array de séries que você criou  
     possui 3 itens.
 */
-
-
 
 /*
   03 - Comente o console.log() acima e:
@@ -47,8 +43,6 @@ const randomTVShow = 'Watchmen'
   "O tipo de dado que a const "isRandomTVShowIncluded" armazena é: TIPO_DE_DADO."
 */
 
-
-
 /*
   05 - Comente o console.log() acima e:
 
@@ -63,8 +57,6 @@ const randomTVShow = 'Watchmen'
   caracteres? BOOLEAN."
 */
 
-
-
 /*
   06 - Comente o console.log() acima e:
 
@@ -75,7 +67,7 @@ const randomTVShow = 'Watchmen'
   BOOLEAN."
 */
 
-const falsyValues = [0, "", false, '', ``, null, undefined, NaN]
+const falsyValues = [0, '', false, '', ``, null, undefined, NaN]
 
 /*
   07 - Comente o console.log() acima e:
@@ -85,8 +77,6 @@ const falsyValues = [0, "", false, '', ``, null, undefined, NaN]
     em boolean.
   - Você sabe por que essa conversão resultou em true?
 */
-
-
 
 /*
   08 - Comente o console.log() acima e:
@@ -101,8 +91,6 @@ const falsyValues = [0, "", false, '', ``, null, undefined, NaN]
   é: BOOLEAN."
 */
 
-
-
 /*
   09 - Comente o console.log() acima e:
 
@@ -111,8 +99,6 @@ const falsyValues = [0, "", false, '', ``, null, undefined, NaN]
   - Essa expressão deve resultar em false.
   - Exiba a "isNotAString" no console.
 */
-
-
 
 /*
   10 - Comente o console.log() acima e:
